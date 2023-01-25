@@ -1,0 +1,2 @@
+run docker container : sudo ./dc-up.sh mysql-rabbitmq
+sudo ./dc-stop.sh
